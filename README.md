@@ -4,9 +4,9 @@ This project is a responsive web application developed using Next.js and Tailwin
 
 ## Important Links
 
-- [Deployed Link]()
+- [Deployed Link](https://workwise-frontend.vercel.app/)
 
-- [Repo Link]()
+- [Repo Link](https://github.com/artisonii/workwise_frontend)
 
 ## Features
 
@@ -26,11 +26,11 @@ This project is a responsive web application developed using Next.js and Tailwin
 
 ## Screenshots
 
-- For Transaction Detail
+- For Transaction This Month Table Section
 
 <img src="./public/work.PNG" />
 
-- For Order Detail
+- For Transaction Details
 
 <img src="./public/WCapture.PNG" />
 
